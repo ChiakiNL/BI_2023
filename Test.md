@@ -1,6 +1,5 @@
 # This is a test
 ## Heading2 looks like this 
-![Alt text](<Image for Test.jpg>)
 
 ```py
 print("What's up")
