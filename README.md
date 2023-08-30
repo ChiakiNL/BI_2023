@@ -9,3 +9,9 @@ print("Work hard!")
 Here is a link to [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)☀️
 
 Here is a link to [Emoji](https://getemoji.com/)🌸
+
+*Italic* text
+
+**Bold** text
+
+***Bold and Italic*** text
