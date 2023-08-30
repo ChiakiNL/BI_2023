@@ -54,15 +54,15 @@ Python can be read almost like English
 Important to differentiate between variable names and Python key words
 The Jupyter notebook can help with identifying the difference
 
-'''py
+```py
 fruits = ['apple', 'orange', 'banana']
-'''
+```
 
-'''py
+```py
 # Example of a Python (if) statement
 if 'orange' in fruits:
     print(fruits)
-'''
+```
 
 ### Variables
 Variables
