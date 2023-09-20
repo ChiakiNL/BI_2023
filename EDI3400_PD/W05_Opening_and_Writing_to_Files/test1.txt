@@ -1,2 +1,2 @@
-I am adding a new line again
-I am adding a new line again
+Hello, my name is Chiaki!
+This is for testing
