@@ -1,2 +1,2 @@
-This is a test to read!
-Hope it is working as its supporsed to be...
+Hello, my name is Chiaki
+I am adding a new line again
