@@ -91,3 +91,6 @@ labs(title = "Stock market values 1925-1979", x = "Values", y = "years") # Speci
 # Exercise3
 # Create a barplot for the CRSP data using  the library GGplot. Plot the data from 1980-2020.
 
+ggplot(CRSP_years[which(CRSP_years$Group.1>=1980),], aes(x = x, y = Group.1))+
+geom_bar(stat = "identity")+
+labs(title = "Stock market values 1925-1979", x = "Values", y = "years") # Specify we want the data grouped by values. We don't wanna see everything
