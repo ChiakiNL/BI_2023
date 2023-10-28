@@ -1,4 +1,4 @@
-# BI 2023 (Autumn) 🍂
+# 🍁 BI 2023 (Autumn) 🍂
 ### What I learned in 2023:
 - Python
 - Data visualization (Pandas, Seaborn, Numpy)
